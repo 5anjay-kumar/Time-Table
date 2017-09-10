@@ -1,0 +1,64 @@
+body{
+	background: url('1bg.jpg') no-repeat; background-size: 100% 100%;
+	margin: 0;
+}
+
+.mainarea{
+	margin: 0px auto;
+    width: 90%;
+    margin-left: 65px;
+}
+#toparea header{
+	
+	margin-top: 2%;
+	top: 0;
+	width: 100%;
+	height: 20%;
+}
+#toparea header h1, h2{
+	font-family: "Oregano",Georgia,"Times New Roman",Times,serif;
+	text-align: center;
+	color: #143c5a;
+}
+
+.mainarea table, th, td{
+	font-family: "Oregano",Georgia,"Times New Roman",Times,serif;
+	
+	
+	
+	font-size: 20px;
+	border-spacing: 2.5px;
+	background-color: rgba(153, 237, 233, 0.3);
+	text-align: center;
+	color: #0000;
+}
+.mainarea table tr th{
+	width: 150px;
+}
+.dsa{
+	background-color: rgba(66, 232, 225, 0.3);
+}
+.ecras{
+	background-color: rgba(125, 206, 160, 0.3);
+}
+.mainarea table th{
+	background-color: rgba(226, 146, 91, 0.5);
+}
+.clcus{
+	background-color: rgba(228, 109, 109, 0.3);
+}
+.linear{
+	background-color: rgba(47, 81, 247, 0.3);
+}
+.stuclr{
+	background-color: rgba(251, 127, 0, 0.3);
+}
+.ecras{
+	background-color: rgba(205, 255, 0, 0.3);
+}
+footer h2{
+	text-align: left;
+	margin-left: 60px;
+	color: #143c5a;
+	
+}
